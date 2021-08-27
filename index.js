@@ -45,11 +45,11 @@ answer: "A"
 question: "\nFrom which platform at Kings Cross does the Hogwarts Express train depart?\nA.Gringotts\nB.Nine and three-quarters\n ",
 answer: "B"
 }, {
-question: "\nWhat house is Harry Potter sorted into?\n ",
-answer: "Gryffindor"
+question: "\nWhat house is Harry Potter sorted into?\nA.Slytherine B.Gryffindor C.HufflePuff\nYour option is:",
+answer: "B"
 }, {
-question: "\nWhat spell would you use to open a door?\n ",
-answer: "Alohomora"
+question: "\nAlohomora is the spell used to open the door?\nA.True B.False ",
+answer: "A"
 }, {
   question: "\nHarry Potter’s birthday is on _____?\nA.July 31 B.June 31\nYour option is:  ",
   answer: "A"
